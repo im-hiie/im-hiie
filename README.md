@@ -1,1 +1,1 @@
-https://github.com/anuraghazra/github-readme-stats.git
+git@github.com:anuraghazra/github-readme-stats.git
