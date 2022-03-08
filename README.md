@@ -1,7 +1,5 @@
 /*<ul>  
-  <li>.</li>
-  <li>.</li>
-  <li>.</li>
+  <li>⚔️ Hi guys, my name's Breno, 20 years old and I'm studying C# and Unity3D/2D to Game Development.</li>
 </ul>*/
 
 <div>
